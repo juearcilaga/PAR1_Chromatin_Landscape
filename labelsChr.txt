@@ -1,0 +1,8 @@
+SymbState	NameState
+1	PolyComb
+2	HetChrom
+3	TransElo
+4	AeloE
+5	PoisE
+6	AconE
+7	AProm
